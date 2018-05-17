@@ -15,3 +15,6 @@
 		]
 	}
 }
+composer update 
+git add composer.json composer.lock
+git commit
